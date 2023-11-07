@@ -1,0 +1,12 @@
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/assets/image/food/meat.png
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/dongg/StudioProjects/refri_prj/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
